@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: grishmacontractor/foodWebsite # Path to Github repository
+  branch: master # Branch to update
+  
+publish_mode:editorial_workflow
